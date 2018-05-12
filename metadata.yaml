@@ -1,0 +1,63 @@
+_repo: Miscellanies_14062
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Mason, Stuart
+    alias: Millard, Christopher Sclater
+    birthdate: 1872
+    deathdate: 1927
+    gutenberg_agent_id: '36540'
+    url: http://www.gutenberg.org/2009/agents/36540
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wilde, Oscar
+    alias: Wilde, Oscar Fingal O'Flahertie Wills
+    birthdate: 1854
+    deathdate: 1900
+    gutenberg_agent_id: '111'
+    url: http://www.gutenberg.org/2009/agents/111
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Oscar_Wilde
+    - http://en.wikipedia.org/wiki/Oscar_Wilde
+  editor:
+    agent_name: Ross, Robert Baldwin
+    alias: Ross, Robbie
+    birthdate: 1869
+    deathdate: 1918
+    gutenberg_agent_id: '5421'
+    url: http://www.gutenberg.org/2009/agents/5421
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Baldwin_Ross
+description: 'Essays and criticisms. The tomb of Keats ; The Grosvenor Gallery, 1877
+  ; The Grosvenor Gallery, 1879 ; L''envoi : rose leaf and aple leaf ; Mrs. Langtry
+  as Hester Grazebrook ; Woman''s dress ; More radical ideas upon dress reform ; Mr.
+  Whistler''s Ten o''clock ; The relation of dress to art ; Keats''s Sonnet on blue
+  ; The American invasion ; Sermons in stones at Bloomsbury ; The unity of the arts
+  ; Art at Willis''s rooms ; Sculpture at the arts and crafts ; Printing and printers
+  ; The beauties of bookbinding ; The close of the arts and crafts ; English poetesses
+  ; London models -- Letters. To Joaquin Miller ; Notes on Whistler ; Reply to Whistley
+  ; Letters on Dorian Gray ; An Anglo-Indian''s complaint ; A house of pomegranates
+  ; Puppets and actors ; Lady Windermere''s fan : an explanation ; Salomé ; The Thirteen
+  Club ; The ethics of journalism ; The green carnation ; Phrases and philosophies
+  for the use of the young -- Unpublished manuscripts. The rise of historical criticism,
+  IV ; La Sainte Courtisane -- Lectures. The English renaissance of art ; House decoration
+  ; Art and the handicraftsman ; Lecture to art students.'
+gutenberg_issued: '2004-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14062'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Essays'
+- !lcsh 'Drama'
+- !lcsh 'Wilde, Oscar, 1854-1900 -- Correspondence'
+- !lcsh 'Speeches, addresses, etc.'
+- !lcsh 'Wilde, Oscar, 1854-1900 -- Bibliography'
+- !lcc 'PR'
+title: Miscellanies
+url: http://www.gutenberg.org/ebooks/14062
